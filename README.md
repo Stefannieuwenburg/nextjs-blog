@@ -1,19 +1,19 @@
 # This is for [Learn Next.js](https://nextjs.org/learn).
 
-# npm run dev
-Starts the development server.
+# Starts the development server.
+npm run dev
 
-# npm run build
-Builds the app for production.
 
-# npm start
-Runs the built app in production mode.
+# Builds the app for production.
+npm run build
 
-# We suggest that you begin by typing:
+# Runs the built app in production mode.
+npm start
+
+# Tools
 
 npm install --save styled-jsx
 npm install classnames
-
 cd nextjs-blog
 npm run dev
 
